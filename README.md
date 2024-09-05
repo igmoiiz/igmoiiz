@@ -18,7 +18,7 @@ I'm a Flutter developer currently in learning and development phase where I buil
 ---
 [![](https://visitcount.itsvg.in/api?id=igmoiiz&icon=6&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Buy Me a Coffee!
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ig_moiiz) 
 
   
