@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Flutter developer currently in learning and development phase where I build new projects daily. <br>I know different technologies to work with on flutter including state managements like provider, block etc<br>and backend services like Firebase, Databases, Authentications, Hive, MongoDB etc. Inbox me for hiring <br>and questions. Flow me for cool content
+I’m Moiz Baloch, a Computer Science student and an experienced Flutter developer with a strong foundation in full-stack development. With advanced expertise in Flutter, Firebase, and Supabase, I specialize in building dynamic, high-performance mobile applications. My work focuses on seamless UI/UX, efficient state management (Provider), and robust backend integrations with databases like Firestore, MongoDB, and Supabase. Whether it's crafting scalable e-commerce platforms, real-time chat apps, or innovative management systems, I thrive on turning ideas into reality. Always eager to explore new technologies, I bring a blend of technical skills, problem-solving, and creativity to every project. Let’s build something amazing!
 
 
 ## 🌐 Socials:
